@@ -23,4 +23,16 @@ cat ...Hiding-From-You
 
 level 4->5:
 
+cat ./-file07
+
+4oQYVPkxZOOEOO5pTW81FB8j8lxXGUQw
+
+level 5->6:
+
+find . -size 1033c
+cat .file2
+
+HWasnPhtq9AVKe0dmk45nxy20cvUa6EG
+
+level 6->7:
 
